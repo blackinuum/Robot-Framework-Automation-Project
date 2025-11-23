@@ -369,27 +369,8 @@ Full Test
 
 ## 📧 Author
 
-**Your Name** — Fresh Graduate QA Automation Engineer  
+BAZOURHI Mohamed Saad — Fresh Graduate Information Systems Security
 📍 Casablanca, Morocco  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-saad-bazourhi-3b8445235/)) | 🐙 [GitHub]([https://github.com/yourusername](https://github.com/blackinuum))
 
----
 
-## 📄 License
-
-This project is open source and available under the **MIT License**.
-
----
-
-## 🤝 Contributing
-
-Found bugs or have suggestions? Feel free to:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
----
-
-## ✨ Version History
-
-**v1.0** — Initial automation portfolio with API, UI, Database, and POM tests

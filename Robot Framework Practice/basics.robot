@@ -172,8 +172,8 @@ Captures
     maximize browser window
     set selenium timeout    10s
     wait until element is visible   //*[@id="main"]/div/div[1]/div[2]
-    capture element screenshot  //*[@id="main"]/div/div[1]/div[2]   C:\\Users\\bazou\\OneDrive\\Desktop\\robot_screens\\max_payne_cover.png
-    capture page screenshot     C:\\Users\\bazou\\OneDrive\\Desktop\\robot_screens\\max_payne_website.png
+    capture element screenshot  //*[@id="main"]/div/div[1]/div[2]   C:\\your\\location\\capture.png
+    capture page screenshot     C:\\your\\location\\capture.png
     close browser
 
 MouseAct
